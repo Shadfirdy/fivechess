@@ -39,4 +39,4 @@ $ java FiveGame
 
 大一的程式作業，還有許多待加強之處
 
-finish in 2017.6.1
+finished in 2017.6.1
